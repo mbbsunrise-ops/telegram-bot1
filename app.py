@@ -20,7 +20,7 @@ from aiogram.client.session.aiohttp import AiohttpSession
 # CONFIG
 # =============================================
 
-API_TOKEN = "8682810780:AAF4z5LB1dHxbyF_Nd7ClLyzLaXsbsS8a-Q"
+API_TOKEN = "8830244772:AAHIbonQJmbqXKW128oSV93zS_N3A3_tXts"
 ADMIN_IDS = [8670439397]
 DB_FILE = "database.json"
 BANNER_FILE = "banner.jpg"
