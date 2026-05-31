@@ -122,7 +122,7 @@ def main_menu(user_id):
     )
     builder.row(
         InlineKeyboardButton(text="💸 Recharger", callback_data="wallet_main"),
-        InlineKeyboardButton(text="🚀 Canal", url="https://t.me/azG91s")
+        InlineKeyboardButton(text="🚀 Canal", url="https://t.me/+OTJjEH_Wf6FhMjZl")
     )
     return builder.as_markup()
 
